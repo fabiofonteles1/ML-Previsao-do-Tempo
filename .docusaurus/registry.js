@@ -1,0 +1,15 @@
+export default {
+  "0e384e19": [() => import(/* webpackChunkName: "0e384e19" */ "@site/docs/intro.md"), "@site/docs/intro.md", require.resolveWeak("@site/docs/intro.md")],
+  "0ffd5bbe": [() => import(/* webpackChunkName: "0ffd5bbe" */ "@generated/docusaurus-plugin-content-docs/default/p/ml-previsao-do-tempo-docs-bf1.json"), "@generated/docusaurus-plugin-content-docs/default/p/ml-previsao-do-tempo-docs-bf1.json", require.resolveWeak("@generated/docusaurus-plugin-content-docs/default/p/ml-previsao-do-tempo-docs-bf1.json")],
+  "17896441": [() => import(/* webpackChunkName: "17896441" */ "@theme/DocItem"), "@theme/DocItem", require.resolveWeak("@theme/DocItem")],
+  "5e95c892": [() => import(/* webpackChunkName: "5e95c892" */ "@theme/DocsRoot"), "@theme/DocsRoot", require.resolveWeak("@theme/DocsRoot")],
+  "5e9f5e1a": [() => import(/* webpackChunkName: "5e9f5e1a" */ "@generated/docusaurus.config"), "@generated/docusaurus.config", require.resolveWeak("@generated/docusaurus.config")],
+  "71412449": [() => import(/* webpackChunkName: "71412449" */ "@site/docs/projeto.md"), "@site/docs/projeto.md", require.resolveWeak("@site/docs/projeto.md")],
+  "9e7779b8": [() => import(/* webpackChunkName: "9e7779b8" */ "@site/docs/etica-e-conformidade.md"), "@site/docs/etica-e-conformidade.md", require.resolveWeak("@site/docs/etica-e-conformidade.md")],
+  "a7456010": [() => import(/* webpackChunkName: "a7456010" */ "@generated/docusaurus-plugin-content-pages/default/__plugin.json"), "@generated/docusaurus-plugin-content-pages/default/__plugin.json", require.resolveWeak("@generated/docusaurus-plugin-content-pages/default/__plugin.json")],
+  "a76a4dbe": [() => import(/* webpackChunkName: "a76a4dbe" */ "@site/docs/fontes-de-dados.md"), "@site/docs/fontes-de-dados.md", require.resolveWeak("@site/docs/fontes-de-dados.md")],
+  "a7bd4aaa": [() => import(/* webpackChunkName: "a7bd4aaa" */ "@theme/DocVersionRoot"), "@theme/DocVersionRoot", require.resolveWeak("@theme/DocVersionRoot")],
+  "a94703ab": [() => import(/* webpackChunkName: "a94703ab" */ "@theme/DocRoot"), "@theme/DocRoot", require.resolveWeak("@theme/DocRoot")],
+  "aba21aa0": [() => import(/* webpackChunkName: "aba21aa0" */ "@generated/docusaurus-plugin-content-docs/default/__plugin.json"), "@generated/docusaurus-plugin-content-docs/default/__plugin.json", require.resolveWeak("@generated/docusaurus-plugin-content-docs/default/__plugin.json")],
+  "c4f5d8e4": [() => import(/* webpackChunkName: "c4f5d8e4" */ "@site/src/pages/index.js"), "@site/src/pages/index.js", require.resolveWeak("@site/src/pages/index.js")],
+  "f0e27e08": [() => import(/* webpackChunkName: "f0e27e08" */ "@site/docs/metodologia.md"), "@site/docs/metodologia.md", require.resolveWeak("@site/docs/metodologia.md")],};

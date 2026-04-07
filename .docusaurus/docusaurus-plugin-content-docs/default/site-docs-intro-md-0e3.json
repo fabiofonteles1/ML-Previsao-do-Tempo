@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "O que é este projeto?",
+  "description": "Este projeto é uma iniciativa de Aprendizado de Máquina voltada à previsão de variáveis climáticas críticas no Distrito Federal.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/ML-Previsao-do-Tempo/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "intro",
+    "title": "O que é este projeto?",
+    "slug": "/intro"
+  },
+  "sidebar": "docsSidebar",
+  "next": {
+    "title": "Projeto",
+    "permalink": "/ML-Previsao-do-Tempo/docs/projeto"
+  }
+}

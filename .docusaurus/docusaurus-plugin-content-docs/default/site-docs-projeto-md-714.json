@@ -1,0 +1,26 @@
+{
+  "id": "projeto",
+  "title": "Projeto",
+  "description": "Definição do problema",
+  "source": "@site/docs/projeto.md",
+  "sourceDirName": ".",
+  "slug": "/projeto",
+  "permalink": "/ML-Previsao-do-Tempo/docs/projeto",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "projeto",
+    "title": "Projeto"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "O que é este projeto?",
+    "permalink": "/ML-Previsao-do-Tempo/docs/intro"
+  },
+  "next": {
+    "title": "Fontes de Dados",
+    "permalink": "/ML-Previsao-do-Tempo/docs/fontes-de-dados"
+  }
+}

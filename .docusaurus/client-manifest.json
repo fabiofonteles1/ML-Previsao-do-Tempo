@@ -1,0 +1,225 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "237": [
+      237
+    ],
+    "17896441": [
+      869,
+      401
+    ],
+    "71412449": [
+      109
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "0e384e19": [
+      976
+    ],
+    "0ffd5bbe": [
+      325
+    ],
+    "5e95c892": [
+      647
+    ],
+    "9e7779b8": [
+      841
+    ],
+    "a7456010": [
+      235
+    ],
+    "a76a4dbe": [
+      391
+    ],
+    "a7bd4aaa": [
+      98
+    ],
+    "a94703ab": [
+      869,
+      48
+    ],
+    "aba21aa0": [
+      742
+    ],
+    "c4f5d8e4": [
+      869,
+      634
+    ],
+    "f0e27e08": [
+      920
+    ],
+    "styles": [
+      48,
+      354,
+      401,
+      634,
+      792,
+      869
+    ]
+  },
+  "assets": {
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.32b9d1e7.js",
+          "hash": "39cba587ca48558d",
+          "publicPath": "/ML-Previsao-do-Tempo/assets/js/a94703ab.32b9d1e7.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.d4f222e8.js",
+          "hash": "8443e9f7e10a4b09",
+          "publicPath": "/ML-Previsao-do-Tempo/assets/js/a7bd4aaa.d4f222e8.js"
+        }
+      ]
+    },
+    "109": {
+      "js": [
+        {
+          "file": "assets/js/71412449.16a7aed4.js",
+          "hash": "50fec4044552b268",
+          "publicPath": "/ML-Previsao-do-Tempo/assets/js/71412449.16a7aed4.js"
+        }
+      ]
+    },
+    "235": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.33986abc.js",
+          "hash": "2a1cadbc4acf09fe",
+          "publicPath": "/ML-Previsao-do-Tempo/assets/js/a7456010.33986abc.js"
+        }
+      ]
+    },
+    "237": {
+      "js": [
+        {
+          "file": "assets/js/237.d82dfe9d.js",
+          "hash": "7102e25f9c99a2ea",
+          "publicPath": "/ML-Previsao-do-Tempo/assets/js/237.d82dfe9d.js"
+        }
+      ]
+    },
+    "325": {
+      "js": [
+        {
+          "file": "assets/js/0ffd5bbe.1a6cb4a0.js",
+          "hash": "28fcc575e1dacca7",
+          "publicPath": "/ML-Previsao-do-Tempo/assets/js/0ffd5bbe.1a6cb4a0.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.602f94c9.js",
+          "hash": "77add9c477f78de0",
+          "publicPath": "/ML-Previsao-do-Tempo/assets/js/runtime~main.602f94c9.js"
+        }
+      ]
+    },
+    "391": {
+      "js": [
+        {
+          "file": "assets/js/a76a4dbe.77ed8928.js",
+          "hash": "97fae38671e14023",
+          "publicPath": "/ML-Previsao-do-Tempo/assets/js/a76a4dbe.77ed8928.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.15754b16.js",
+          "hash": "2a546b6138c8edf2",
+          "publicPath": "/ML-Previsao-do-Tempo/assets/js/17896441.15754b16.js"
+        }
+      ]
+    },
+    "634": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.96bd19b6.js",
+          "hash": "823f921b0b405cf2",
+          "publicPath": "/ML-Previsao-do-Tempo/assets/js/c4f5d8e4.96bd19b6.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.c30a57fc.js",
+          "hash": "ff5e5adb1bb6e334",
+          "publicPath": "/ML-Previsao-do-Tempo/assets/js/5e95c892.c30a57fc.js"
+        }
+      ]
+    },
+    "742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.7bf406b8.js",
+          "hash": "199939098d70999b",
+          "publicPath": "/ML-Previsao-do-Tempo/assets/js/aba21aa0.7bf406b8.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.fbabc244.js",
+          "hash": "ec991bbb8be9fe7f",
+          "publicPath": "/ML-Previsao-do-Tempo/assets/js/main.fbabc244.js"
+        }
+      ]
+    },
+    "841": {
+      "js": [
+        {
+          "file": "assets/js/9e7779b8.06222d40.js",
+          "hash": "4e89e2f7f07f50d9",
+          "publicPath": "/ML-Previsao-do-Tempo/assets/js/9e7779b8.06222d40.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.94e97fd8.css",
+          "hash": "43f3e7e613ec5c56",
+          "publicPath": "/ML-Previsao-do-Tempo/assets/css/styles.94e97fd8.css"
+        }
+      ]
+    },
+    "920": {
+      "js": [
+        {
+          "file": "assets/js/f0e27e08.163b8b40.js",
+          "hash": "93f66cce046b3042",
+          "publicPath": "/ML-Previsao-do-Tempo/assets/js/f0e27e08.163b8b40.js"
+        }
+      ]
+    },
+    "976": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.8dd73428.js",
+          "hash": "ea0dea91d709c496",
+          "publicPath": "/ML-Previsao-do-Tempo/assets/js/0e384e19.8dd73428.js"
+        }
+      ]
+    }
+  }
+}

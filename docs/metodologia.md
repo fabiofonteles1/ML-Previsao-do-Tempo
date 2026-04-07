@@ -1,4 +1,7 @@
-# Metodologia
+---
+id: metodologia
+title: Metodologia
+---
 
 ## Estratégia geral
 

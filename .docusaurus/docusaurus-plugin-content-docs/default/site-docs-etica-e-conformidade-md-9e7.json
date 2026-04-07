@@ -1,0 +1,22 @@
+{
+  "id": "etica-e-conformidade",
+  "title": "Ética e Conformidade",
+  "description": "Uso de dados",
+  "source": "@site/docs/etica-e-conformidade.md",
+  "sourceDirName": ".",
+  "slug": "/etica-e-conformidade",
+  "permalink": "/ML-Previsao-do-Tempo/docs/etica-e-conformidade",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "etica-e-conformidade",
+    "title": "Ética e Conformidade"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Metodologia",
+    "permalink": "/ML-Previsao-do-Tempo/docs/metodologia"
+  }
+}

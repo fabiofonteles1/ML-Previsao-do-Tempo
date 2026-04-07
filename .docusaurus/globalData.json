@@ -1,0 +1,53 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/ML-Previsao-do-Tempo/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/ML-Previsao-do-Tempo/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "etica-e-conformidade",
+              "path": "/ML-Previsao-do-Tempo/docs/etica-e-conformidade",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "fontes-de-dados",
+              "path": "/ML-Previsao-do-Tempo/docs/fontes-de-dados",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/ML-Previsao-do-Tempo/docs/intro",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "metodologia",
+              "path": "/ML-Previsao-do-Tempo/docs/metodologia",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "projeto",
+              "path": "/ML-Previsao-do-Tempo/docs/projeto",
+              "sidebar": "docsSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docsSidebar": {
+              "link": {
+                "path": "/ML-Previsao-do-Tempo/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "metodologia",
+  "title": "Metodologia",
+  "description": "Estratégia geral",
+  "source": "@site/docs/metodologia.md",
+  "sourceDirName": ".",
+  "slug": "/metodologia",
+  "permalink": "/ML-Previsao-do-Tempo/docs/metodologia",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "metodologia",
+    "title": "Metodologia"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Fontes de Dados",
+    "permalink": "/ML-Previsao-do-Tempo/docs/fontes-de-dados"
+  },
+  "next": {
+    "title": "Ética e Conformidade",
+    "permalink": "/ML-Previsao-do-Tempo/docs/etica-e-conformidade"
+  }
+}

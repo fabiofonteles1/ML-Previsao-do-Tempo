@@ -1,4 +1,7 @@
-# Projeto
+---
+id: projeto
+title: Projeto
+---
 
 ## Definição do problema
 
@@ -26,7 +29,9 @@ A previsão dessas variáveis pode contribuir para:
 ## Hipóteses
 
 ### H1 — Viabilidade Preditiva
+
 Os modelos deverão apresentar desempenho superior à baseline baseada na média histórica.
 
 ### H2 — Ganho Multi-fonte
+
 A integração das diferentes fontes deverá melhorar o desempenho em relação ao uso isolado de uma única fonte.

@@ -1,0 +1,26 @@
+{
+  "id": "fontes-de-dados",
+  "title": "Fontes de Dados",
+  "description": "Visão geral",
+  "source": "@site/docs/fontes-de-dados.md",
+  "sourceDirName": ".",
+  "slug": "/fontes-de-dados",
+  "permalink": "/ML-Previsao-do-Tempo/docs/fontes-de-dados",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "fontes-de-dados",
+    "title": "Fontes de Dados"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Projeto",
+    "permalink": "/ML-Previsao-do-Tempo/docs/projeto"
+  },
+  "next": {
+    "title": "Metodologia",
+    "permalink": "/ML-Previsao-do-Tempo/docs/metodologia"
+  }
+}
